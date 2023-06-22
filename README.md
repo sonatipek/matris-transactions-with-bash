@@ -1,4 +1,4 @@
-# matrix-transactions-with_bash
+# Matrix Transactions with Bash
 
 ## Transactions
 - Matrix Creating
